@@ -1,5 +1,4 @@
-
-
+![coding](https://github.com/Zwe-AG/Zwe-AG/blob/main/photo1.webp)
 <h1 align="center">Hi 👋, I'm Zwe Htet Aung</h1>
 <h3 align="center">Web developer</h3>
 
