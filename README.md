@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: ...A programmer is always a coder, but a coder may not be a programmer!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwe-AG)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwe-AG&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
