@@ -2,13 +2,17 @@
 <h1 align="center">Hi 👋, I'm Zwe Htet Aung</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **I am always learning programming languages.**
+- 💬 Ask me about **I am always learning programming languages**
 
 - ⚡ Fun fact **Programming life is freedom**
 
 - ⚡ Fun fact: ...A programmer is always a coder, but a coder may not be a programmer!
+
+- ⚡ Motivation fact: ...Hard Work beats talent when talent doesn't work hard.
+
+- ⚡ Motivation fact: ...Your future is created by what you do today.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwe-AG&show_icons=true&theme=tokyonight)
 
