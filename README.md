@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zwe Htet Aung</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **I am always learning programming languages**
 
